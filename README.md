@@ -79,9 +79,10 @@ Works with 8-bit Fahrenheit ('00H'-'FFH')
 
 4. Divide by 9
   -The intermediate result is divide by '9' using repeated subtractionn
+   
   -The quotient (integer Celsius ) is stored in a register.
 
-5. Output
+6. Output
  - Celsius result is sent to output port '02H'
 
 
