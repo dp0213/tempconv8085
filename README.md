@@ -29,6 +29,8 @@ used :
 
  SUI subtracts an imediate value with the value in accumulator 
 
+ CPI compares the immediate value with the accumulator , flags are affected 
+
  MUL_LOO, MUL_NC,DIV_LOOP,DO_SUB,NO_BORROW,DIV_DONE are all labels which are used by Jump  statements 
 
  Jump statements:
